@@ -1,0 +1,90 @@
+# ninja log v5
+3	776	7095832037467208	Q_property_autogen/timestamp	1bce20f37116172f
+3	776	7095832037467208	Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+3	776	7095832037467208	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/timestamp	1bce20f37116172f
+3	776	7095832037467208	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+778	2151	7095832052468722	CMakeFiles/Q_property.dir/test.cpp.obj	e6cfc8b30eecc0bd
+777	2192	7095832052877022	CMakeFiles/Q_property.dir/main.cpp.obj	31965562f1814d83
+779	2246	7095832053415155	CMakeFiles/Q_property.dir/watcher.cpp.obj	2d2d44cc39ac2447
+5	532	7095833547085318	Q_property_autogen/timestamp	1bce20f37116172f
+5	532	7095833547085318	Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+5	532	7095833547085318	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/timestamp	1bce20f37116172f
+5	532	7095833547085318	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+533	1702	7095833559919581	CMakeFiles/Q_property.dir/test.cpp.obj	e6cfc8b30eecc0bd
+8	594	7095833915305246	Q_property_autogen/timestamp	1bce20f37116172f
+8	594	7095833915305246	Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+8	594	7095833915305246	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/timestamp	1bce20f37116172f
+8	594	7095833915305246	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+595	1675	7095833927274215	CMakeFiles/Q_property.dir/test.cpp.obj	e6cfc8b30eecc0bd
+594	1840	7095833928914204	CMakeFiles/Q_property.dir/Q_property_autogen/mocs_compilation.cpp.obj	90b8b6be1989ac3c
+6	202	7095834072959314	Q_property_autogen/timestamp	1bce20f37116172f
+6	202	7095834072959314	Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+6	202	7095834072959314	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/timestamp	1bce20f37116172f
+6	202	7095834072959314	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+205	1165	7095834082636274	CMakeFiles/Q_property.dir/watcher.cpp.obj	2d2d44cc39ac2447
+1165	1259	7095834083555358	Q_property.exe	4117248180a55489
+8	225	7095837943959749	Q_property_autogen/timestamp	1bce20f37116172f
+8	225	7095837943959749	Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+8	225	7095837943959749	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/timestamp	1bce20f37116172f
+8	225	7095837943959749	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+228	1543	7095837957194158	CMakeFiles/Q_property.dir/main.cpp.obj	31965562f1814d83
+1543	1666	7095837958397919	Q_property.exe	4117248180a55489
+6	195	7095840143054731	Q_property_autogen/timestamp	1bce20f37116172f
+6	195	7095840143054731	Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+6	195	7095840143054731	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/timestamp	1bce20f37116172f
+6	195	7095840143054731	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+198	1175	7095840152914726	CMakeFiles/Q_property.dir/watcher.cpp.obj	2d2d44cc39ac2447
+1175	1282	7095840153967577	Q_property.exe	4117248180a55489
+6	577	7095846845557437	Q_property_autogen/timestamp	1bce20f37116172f
+6	577	7095846845557437	Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+6	577	7095846845557437	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/timestamp	1bce20f37116172f
+6	577	7095846845557437	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+579	1715	7095846858057976	CMakeFiles/Q_property.dir/test.cpp.obj	e6cfc8b30eecc0bd
+580	1855	7095846859474036	CMakeFiles/Q_property.dir/watcher.cpp.obj	2d2d44cc39ac2447
+579	1904	7095846859935205	CMakeFiles/Q_property.dir/main.cpp.obj	31965562f1814d83
+578	1948	7095846860365222	CMakeFiles/Q_property.dir/Q_property_autogen/mocs_compilation.cpp.obj	90b8b6be1989ac3c
+1948	2056	7095846861470519	Q_property.exe	4117248180a55489
+8	222	7095846976591173	Q_property_autogen/timestamp	1bce20f37116172f
+8	222	7095846976591173	Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+8	222	7095846976591173	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/timestamp	1bce20f37116172f
+8	222	7095846976591173	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+225	1455	7095846988987796	CMakeFiles/Q_property.dir/main.cpp.obj	31965562f1814d83
+1456	1574	7095846990149502	Q_property.exe	4117248180a55489
+6	591	7095848055041516	Q_property_autogen/timestamp	1bce20f37116172f
+6	591	7095848055041516	Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+6	591	7095848055041516	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/timestamp	1bce20f37116172f
+6	591	7095848055041516	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+593	1686	7095848067190907	CMakeFiles/Q_property.dir/test.cpp.obj	e6cfc8b30eecc0bd
+592	1812	7095848068432755	CMakeFiles/Q_property.dir/main.cpp.obj	31965562f1814d83
+591	1843	7095848068756882	CMakeFiles/Q_property.dir/Q_property_autogen/mocs_compilation.cpp.obj	90b8b6be1989ac3c
+1843	1953	7095848069847581	Q_property.exe	4117248180a55489
+6	200	7095849010773632	Q_property_autogen/timestamp	1bce20f37116172f
+6	200	7095849010773632	Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+6	200	7095849010773632	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/timestamp	1bce20f37116172f
+6	200	7095849010773632	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+203	1240	7095849021235034	CMakeFiles/Q_property.dir/main.cpp.obj	31965562f1814d83
+1240	1343	7095849022246918	Q_property.exe	4117248180a55489
+6	213	7095849118224596	Q_property_autogen/timestamp	1bce20f37116172f
+6	213	7095849118224596	Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+6	213	7095849118224596	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/timestamp	1bce20f37116172f
+6	213	7095849118224596	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+217	1398	7095849130134546	CMakeFiles/Q_property.dir/main.cpp.obj	31965562f1814d83
+1398	1522	7095849131345897	Q_property.exe	4117248180a55489
+5	555	7095849359208037	Q_property_autogen/timestamp	1bce20f37116172f
+5	555	7095849359208037	Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+5	555	7095849359208037	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/timestamp	1bce20f37116172f
+5	555	7095849359208037	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+557	1649	7095849371402258	CMakeFiles/Q_property.dir/test.cpp.obj	e6cfc8b30eecc0bd
+556	1794	7095849372845304	CMakeFiles/Q_property.dir/main.cpp.obj	31965562f1814d83
+555	1813	7095849373037697	CMakeFiles/Q_property.dir/Q_property_autogen/mocs_compilation.cpp.obj	90b8b6be1989ac3c
+1813	1922	7095849374111472	Q_property.exe	4117248180a55489
+5	533	7095849644265357	Q_property_autogen/timestamp	1bce20f37116172f
+5	533	7095849644265357	Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+5	533	7095849644265357	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/timestamp	1bce20f37116172f
+5	533	7095849644265357	C:/Users/ManoloPc/Documents/Qt6 Learning/02QProperty/build-Q_property-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Q_property_autogen/mocs_compilation.cpp	1bce20f37116172f
+535	1705	7095849657137396	CMakeFiles/Q_property.dir/test.cpp.obj	e6cfc8b30eecc0bd
+534	1854	7095849658604833	CMakeFiles/Q_property.dir/main.cpp.obj	31965562f1814d83
+533	1857	7095849658640662	CMakeFiles/Q_property.dir/Q_property_autogen/mocs_compilation.cpp.obj	90b8b6be1989ac3c
+1857	1963	7095849659701493	Q_property.exe	4117248180a55489
+2	34	0	CMakeFiles/clean.additional	baedbe210acaa455
+34	54	0	clean	186d2f0e95cae768

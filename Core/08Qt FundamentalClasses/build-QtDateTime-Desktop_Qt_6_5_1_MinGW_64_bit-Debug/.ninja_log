@@ -1,0 +1,84 @@
+# ninja log v5
+3	173	7097461011954226	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+3	173	7097461011954226	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+3	173	7097461011954226	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+3	173	7097461011954226	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+173	235	7097461013161961	CMakeFiles/QtDateTime.dir/QtDateTime_autogen/mocs_compilation.cpp.obj	9c1735b1bdaba283
+174	1319	7097461024015671	CMakeFiles/QtDateTime.dir/main.cpp.obj	d653cad8ad1d0143
+1320	1409	7097461024887832	QtDateTime.exe	7034387368e37519
+8	138	7097463452726256	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+8	138	7097463452726256	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+8	138	7097463452726256	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+8	138	7097463452726256	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+7	159	7097463561156425	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+7	159	7097463561156425	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+7	159	7097463561156425	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+7	159	7097463561156425	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+161	1549	7097463575093534	CMakeFiles/QtDateTime.dir/main.cpp.obj	d653cad8ad1d0143
+1549	1645	7097463576034486	QtDateTime.exe	7034387368e37519
+9	137	7097471121913398	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+9	137	7097471121913398	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+9	137	7097471121913398	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+9	137	7097471121913398	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+139	1426	7097471134843006	CMakeFiles/QtDateTime.dir/main.cpp.obj	d653cad8ad1d0143
+1426	1551	7097471136074001	QtDateTime.exe	7034387368e37519
+6	143	7097471705108308	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+6	143	7097471705108308	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+6	143	7097471705108308	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+6	143	7097471705108308	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+145	1331	7097471717057629	CMakeFiles/QtDateTime.dir/main.cpp.obj	d653cad8ad1d0143
+1331	1419	7097471717916588	QtDateTime.exe	7034387368e37519
+7	127	7097473293526683	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+7	127	7097473293526683	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+7	127	7097473293526683	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+7	127	7097473293526683	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+128	1292	7097473305220496	CMakeFiles/QtDateTime.dir/main.cpp.obj	d653cad8ad1d0143
+1292	1372	7097473306004798	QtDateTime.exe	7034387368e37519
+6	131	7097473806720389	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+6	131	7097473806720389	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+6	131	7097473806720389	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+6	131	7097473806720389	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+132	1332	7097473818782732	CMakeFiles/QtDateTime.dir/main.cpp.obj	d653cad8ad1d0143
+1332	1420	7097473819623951	QtDateTime.exe	7034387368e37519
+7	163	7097474399607231	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+7	163	7097474399607231	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+7	163	7097474399607231	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+7	163	7097474399607231	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+165	1654	7097474414592801	CMakeFiles/QtDateTime.dir/main.cpp.obj	d653cad8ad1d0143
+1654	1751	7097474415549047	QtDateTime.exe	7034387368e37519
+7	139	7097474679729122	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+7	139	7097474679729122	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+7	139	7097474679729122	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+7	139	7097474679729122	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+140	1475	7097474693159996	CMakeFiles/QtDateTime.dir/main.cpp.obj	d653cad8ad1d0143
+1476	1575	7097474694096438	QtDateTime.exe	7034387368e37519
+5	141	7097475810393422	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+5	141	7097475810393422	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+5	141	7097475810393422	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+5	141	7097475810393422	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+143	1312	7097475822159416	CMakeFiles/QtDateTime.dir/main.cpp.obj	d653cad8ad1d0143
+1312	1396	7097475822968119	QtDateTime.exe	7034387368e37519
+5	124	7097478411550068	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+5	124	7097478411550068	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+5	124	7097478411550068	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+5	124	7097478411550068	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+125	1219	7097478422539966	CMakeFiles/QtDateTime.dir/main.cpp.obj	d653cad8ad1d0143
+1219	1301	7097478423333661	QtDateTime.exe	7034387368e37519
+6	126	7097478601478129	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+6	126	7097478601478129	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+6	126	7097478601478129	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+6	126	7097478601478129	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+127	1177	7097478612049118	CMakeFiles/QtDateTime.dir/main.cpp.obj	d653cad8ad1d0143
+1178	1259	7097478612825129	QtDateTime.exe	7034387368e37519
+6	136	7097479125828834	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+6	136	7097479125828834	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+6	136	7097479125828834	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+6	136	7097479125828834	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+137	1410	7097479138636383	CMakeFiles/QtDateTime.dir/main.cpp.obj	d653cad8ad1d0143
+1410	1522	7097479139712825	QtDateTime.exe	7034387368e37519
+8	147	7097479460146451	QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+8	147	7097479460146451	QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+8	147	7097479460146451	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	a88984a33b5bcd6e
+8	147	7097479460146451	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	a88984a33b5bcd6e
+148	1584	7097479474611294	CMakeFiles/QtDateTime.dir/main.cpp.obj	d653cad8ad1d0143
+1584	1677	7097479475491183	QtDateTime.exe	7034387368e37519

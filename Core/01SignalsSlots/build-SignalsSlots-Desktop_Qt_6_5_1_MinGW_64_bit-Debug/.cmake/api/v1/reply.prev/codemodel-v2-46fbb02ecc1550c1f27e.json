@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-212d2a49a52919001475.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SignalsSlots",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SignalsSlots::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SignalsSlots-Debug-560c19f5ab97066b6362.json",
+					"name" : "SignalsSlots",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SignalsSlots_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SignalsSlots_autogen-Debug-8e38a06b92ab2388ac86.json",
+					"name" : "SignalsSlots_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SignalsSlots_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SignalsSlots_autogen_timestamp_deps-Debug-5e4a05cc9b39912166e4.json",
+					"name" : "SignalsSlots_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/SignalsSlots"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

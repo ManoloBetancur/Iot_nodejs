@@ -1,0 +1,12 @@
+# ninja log v5
+1	32	0	CMakeFiles/clean.additional	baedbe210acaa455
+32	51	0	clean	186d2f0e95cae768
+5	1227	7096838948008490	Example_autogen/timestamp	38895bf49a04a238
+5	1227	7096838948008490	Example_autogen/mocs_compilation.cpp	38895bf49a04a238
+5	1227	7096838948008490	C:/Users/ManoloPc/Documents/Qt6 Learning/03Qt_Timers/build-Example-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Example_autogen/timestamp	38895bf49a04a238
+5	1227	7096838948008490	C:/Users/ManoloPc/Documents/Qt6 Learning/03Qt_Timers/build-Example-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Example_autogen/mocs_compilation.cpp	38895bf49a04a238
+1231	3356	7096838971497546	CMakeFiles/Example.dir/dog.cpp.obj	a4726bcaad54b884
+1232	3361	7096838971497546	CMakeFiles/Example.dir/owner.cpp.obj	6e58588355eeaf8b
+1229	3362	7096838971529940	CMakeFiles/Example.dir/main.cpp.obj	af02669aa8fe1974
+1228	3363	7096838971562659	CMakeFiles/Example.dir/Example_autogen/mocs_compilation.cpp.obj	88cf297b66e1c799
+3363	3562	7096838973552797	Example.exe	447361427ba0005b

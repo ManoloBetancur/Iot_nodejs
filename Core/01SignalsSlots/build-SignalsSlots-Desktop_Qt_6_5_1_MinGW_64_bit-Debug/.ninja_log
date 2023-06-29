@@ -1,0 +1,58 @@
+# ninja log v5
+17	220	7095747001623070	SignalsSlots_autogen/timestamp	770896f128686ee1
+17	220	7095747001623070	SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+851	2499	7095746184431292	CMakeFiles/SignalsSlots.dir/SignalsSlots_autogen/mocs_compilation.cpp.obj	af3083338181cf37
+17	220	7095747001623070	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/timestamp	770896f128686ee1
+853	2309	7095746182543283	CMakeFiles/SignalsSlots.dir/source.cpp.obj	b50cf8da5a18d4e4
+17	220	7095747001623070	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+222	1310	7095747012610625	CMakeFiles/SignalsSlots.dir/main.cpp.obj	f1dd5b9b35d03fbd
+854	2373	7095746183182795	CMakeFiles/SignalsSlots.dir/destination.cpp.obj	e2e59d66beb0861d
+1310	1421	7095747013693943	SignalsSlots.exe	4e3dde790ba60628
+10	1137	7095762069279354	SignalsSlots_autogen/timestamp	770896f128686ee1
+10	1137	7095762069279354	SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+10	1137	7095762069279354	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/timestamp	770896f128686ee1
+10	1137	7095762069279354	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+1140	3209	7095762092098716	CMakeFiles/SignalsSlots.dir/Radio.cpp.obj	27ee680ce202ba9c
+1142	3231	7095762092294616	CMakeFiles/SignalsSlots.dir/Station.cpp.obj	2bb8e1e0ba170e4c
+1139	3254	7095762092535832	CMakeFiles/SignalsSlots.dir/destination.cpp.obj	e2e59d66beb0861d
+1138	3255	7095762092545821	CMakeFiles/SignalsSlots.dir/main.cpp.obj	f1dd5b9b35d03fbd
+1137	3354	7095762093484489	CMakeFiles/SignalsSlots.dir/SignalsSlots_autogen/mocs_compilation.cpp.obj	af3083338181cf37
+3354	3508	7095762095059925	SignalsSlots.exe	954d7e98331c6fd8
+6	221	7095787100014409	SignalsSlots_autogen/timestamp	770896f128686ee1
+6	221	7095787100014409	SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+6	221	7095787100014409	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/timestamp	770896f128686ee1
+6	221	7095787100014409	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+224	1382	7095787111681427	CMakeFiles/SignalsSlots.dir/main.cpp.obj	f1dd5b9b35d03fbd
+1382	1533	7095787113169921	SignalsSlots.exe	954d7e98331c6fd8
+6	204	7095788591002228	SignalsSlots_autogen/timestamp	770896f128686ee1
+6	204	7095788591002228	SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+6	204	7095788591002228	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/timestamp	770896f128686ee1
+6	204	7095788591002228	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+207	1449	7095788603521362	CMakeFiles/SignalsSlots.dir/main.cpp.obj	f1dd5b9b35d03fbd
+1449	1597	7095788604983555	SignalsSlots.exe	954d7e98331c6fd8
+6	204	7095793690924460	SignalsSlots_autogen/timestamp	770896f128686ee1
+6	204	7095793690924460	SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+6	204	7095793690924460	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/timestamp	770896f128686ee1
+6	204	7095793690924460	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+207	1248	7095793701434490	CMakeFiles/SignalsSlots.dir/main.cpp.obj	f1dd5b9b35d03fbd
+1248	1385	7095793702769013	SignalsSlots.exe	954d7e98331c6fd8
+5	202	7095797018050482	SignalsSlots_autogen/timestamp	770896f128686ee1
+5	202	7095797018050482	SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+5	202	7095797018050482	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/timestamp	770896f128686ee1
+5	202	7095797018050482	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+205	1237	7095797028464182	CMakeFiles/SignalsSlots.dir/main.cpp.obj	f1dd5b9b35d03fbd
+1237	1375	7095797029824134	SignalsSlots.exe	954d7e98331c6fd8
+6	193	7095797483390499	SignalsSlots_autogen/timestamp	770896f128686ee1
+6	193	7095797483390499	SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+6	193	7095797483390499	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/timestamp	770896f128686ee1
+6	193	7095797483390499	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+196	1220	7095797493733897	CMakeFiles/SignalsSlots.dir/main.cpp.obj	f1dd5b9b35d03fbd
+1220	1357	7095797495058503	SignalsSlots.exe	954d7e98331c6fd8
+6	232	7095806634061670	SignalsSlots_autogen/timestamp	770896f128686ee1
+6	232	7095806634061670	SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+6	232	7095806634061670	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/timestamp	770896f128686ee1
+6	232	7095806634061670	C:/Users/ManoloPc/Documents/Qt6 Learning/01SignalsSlots/build-SignalsSlots-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/SignalsSlots_autogen/mocs_compilation.cpp	770896f128686ee1
+234	1234	7095806644140994	CMakeFiles/SignalsSlots.dir/Station.cpp.obj	2bb8e1e0ba170e4c
+1234	1433	7095806646102145	SignalsSlots.exe	954d7e98331c6fd8
+9	46	0	CMakeFiles/clean.additional	baedbe210acaa455
+46	66	0	clean	186d2f0e95cae768

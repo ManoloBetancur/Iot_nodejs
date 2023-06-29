@@ -1,0 +1,16 @@
+# ninja log v5
+6	145	7097507891143863	QtDateTime_autogen/timestamp	63ddab266368090e
+6	145	7097507891143863	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	63ddab266368090e
+6	145	7097507891143863	QtDateTime_autogen/mocs_compilation.cpp	63ddab266368090e
+194	246	7097489326054689	CMakeFiles/QtDateTime.dir/QtDateTime_autogen/mocs_compilation.cpp.obj	9c1735b1bdaba283
+6	145	7097507891143863	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	63ddab266368090e
+147	1754	7097507907266384	CMakeFiles/QtDateTime.dir/main.cpp.obj	eab659f16f479d4c
+1754	1903	7097507908740410	QtDateTime.exe	7034387368e37519
+12	638	7097512054536461	QtDateTime_autogen/timestamp	63ddab266368090e
+12	638	7097512054536461	QtDateTime_autogen/mocs_compilation.cpp	63ddab266368090e
+12	638	7097512054536461	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/timestamp	63ddab266368090e
+12	638	7097512054536461	C:/Users/ManoloPc/Documents/Qt6 Learning/08QtDateTime/build-QtDateTime-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/QtDateTime_autogen/mocs_compilation.cpp	63ddab266368090e
+640	1877	7097512068144737	CMakeFiles/QtDateTime.dir/pet.cpp.obj	224f4ed7a619ed4b
+639	1907	7097512068442545	CMakeFiles/QtDateTime.dir/QtDateTime_autogen/mocs_compilation.cpp.obj	9c1735b1bdaba283
+640	2607	7097512075428507	CMakeFiles/QtDateTime.dir/main.cpp.obj	eab659f16f479d4c
+2607	2849	7097512077848940	QtDateTime.exe	de382a18f53631c8

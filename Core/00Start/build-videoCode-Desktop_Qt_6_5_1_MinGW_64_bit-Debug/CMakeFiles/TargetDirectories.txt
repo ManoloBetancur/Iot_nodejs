@@ -1,0 +1,5 @@
+C:/Users/ManoloPc/Documents/Qt6 Learning/00Start/build-videoCode-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/videoCode.dir
+C:/Users/ManoloPc/Documents/Qt6 Learning/00Start/build-videoCode-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ManoloPc/Documents/Qt6 Learning/00Start/build-videoCode-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ManoloPc/Documents/Qt6 Learning/00Start/build-videoCode-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/videoCode_autogen_timestamp_deps.dir
+C:/Users/ManoloPc/Documents/Qt6 Learning/00Start/build-videoCode-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/videoCode_autogen.dir

@@ -1,0 +1,14 @@
+# ninja log v5
+4	251	7096932430023141	ExceptionHandle_autogen/timestamp	557b600ebc588bc9
+4	251	7096932430023141	ExceptionHandle_autogen/mocs_compilation.cpp	557b600ebc588bc9
+4	251	7096932430023141	C:/Users/ManoloPc/Documents/Qt6 Learning/05Exceptions/build-ExceptionHandle-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/ExceptionHandle_autogen/timestamp	557b600ebc588bc9
+4	251	7096932430023141	C:/Users/ManoloPc/Documents/Qt6 Learning/05Exceptions/build-ExceptionHandle-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/ExceptionHandle_autogen/mocs_compilation.cpp	557b600ebc588bc9
+251	340	7096932431783706	CMakeFiles/ExceptionHandle.dir/ExceptionHandle_autogen/mocs_compilation.cpp.obj	d8a214dfeb332eb0
+252	1519	7096932443577556	CMakeFiles/ExceptionHandle.dir/main.cpp.obj	aadc4759ad26c23a
+1521	1618	7096932444515401	ExceptionHandle.exe	54ba6619fe9c8f9c
+7	185	7096946152696109	ExceptionHandle_autogen/timestamp	557b600ebc588bc9
+7	185	7096946152696109	ExceptionHandle_autogen/mocs_compilation.cpp	557b600ebc588bc9
+7	185	7096946152696109	C:/Users/ManoloPc/Documents/Qt6 Learning/05Exceptions/build-ExceptionHandle-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/ExceptionHandle_autogen/timestamp	557b600ebc588bc9
+7	185	7096946152696109	C:/Users/ManoloPc/Documents/Qt6 Learning/05Exceptions/build-ExceptionHandle-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/ExceptionHandle_autogen/mocs_compilation.cpp	557b600ebc588bc9
+186	1398	7096946164955648	CMakeFiles/ExceptionHandle.dir/main.cpp.obj	aadc4759ad26c23a
+1398	1503	7096946165964842	ExceptionHandle.exe	54ba6619fe9c8f9c

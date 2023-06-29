@@ -1,0 +1,9 @@
+# ninja log v5
+3	659	7092329095583176	qt6cb-8-3_autogen/timestamp	a7653c977080e331
+3	659	7092329095583176	qt6cb-8-3_autogen/mocs_compilation.cpp	a7653c977080e331
+3	659	7092329095583176	C:/Users/ManoloPc/Documents/Qt6 Learning/00Start/build-videoCode-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/qt6cb-8-3_autogen/timestamp	a7653c977080e331
+3	659	7092329095583176	C:/Users/ManoloPc/Documents/Qt6 Learning/00Start/build-videoCode-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/qt6cb-8-3_autogen/mocs_compilation.cpp	a7653c977080e331
+1981	2089	7092329111300036	qt6cb-8-3.exe	a5d61f54d818fc59
+661	1947	7092329109889804	CMakeFiles/qt6cb-8-3.dir/laptop.cpp.obj	c0c66f290b23accb
+659	1967	7092329110091517	CMakeFiles/qt6cb-8-3.dir/qt6cb-8-3_autogen/mocs_compilation.cpp.obj	5af3eb727fc00377
+660	1980	7092329110238267	CMakeFiles/qt6cb-8-3.dir/main.cpp.obj	47ef7a655560cbf7

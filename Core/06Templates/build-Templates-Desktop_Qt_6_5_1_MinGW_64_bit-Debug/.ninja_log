@@ -1,0 +1,8 @@
+# ninja log v5
+3	224	7096985020063936	Templates_autogen/timestamp	49923cdcf37f3b1d
+3	224	7096985020063936	Templates_autogen/mocs_compilation.cpp	49923cdcf37f3b1d
+3	224	7096985020063936	C:/Users/ManoloPc/Documents/Qt6 Learning/06Templates/build-Templates-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Templates_autogen/timestamp	49923cdcf37f3b1d
+3	224	7096985020063936	C:/Users/ManoloPc/Documents/Qt6 Learning/06Templates/build-Templates-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Templates_autogen/mocs_compilation.cpp	49923cdcf37f3b1d
+224	291	7096985021450738	CMakeFiles/Templates.dir/Templates_autogen/mocs_compilation.cpp.obj	74c7c29211ca7246
+225	1300	7096985031545823	CMakeFiles/Templates.dir/main.cpp.obj	75a67c113063a2f1
+1302	1404	7096985032539745	Templates.exe	c0d4c28992652ad

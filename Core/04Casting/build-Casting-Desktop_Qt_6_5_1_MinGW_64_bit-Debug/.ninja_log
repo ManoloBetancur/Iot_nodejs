@@ -1,0 +1,60 @@
+# ninja log v5
+4	262	7096859243387150	Casting_autogen/timestamp	1f0f034dfc578e7b
+4	262	7096859243387150	Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+4	262	7096859243387150	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/timestamp	1f0f034dfc578e7b
+264	1533	7096859257007109	CMakeFiles/Casting.dir/main.cpp.obj	1c95a17461e20ccc
+4	262	7096859243387150	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+263	327	7096859244936446	CMakeFiles/Casting.dir/Casting_autogen/mocs_compilation.cpp.obj	5d17960779026570
+1535	1631	7096859257950150	Casting.exe	2bf98af3a2393220
+23	717	7096862548682921	Casting_autogen/timestamp	1f0f034dfc578e7b
+23	717	7096862548682921	Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+23	717	7096862548682921	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/timestamp	1f0f034dfc578e7b
+23	717	7096862548682921	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+719	2281	7096862565596668	CMakeFiles/Casting.dir/car.cpp.obj	cb9b7a72f12bfb73
+720	2305	7096862565830763	CMakeFiles/Casting.dir/feline.cpp.obj	88ee8b7ea69ca863
+718	2314	7096862565946268	CMakeFiles/Casting.dir/main.cpp.obj	1c95a17461e20ccc
+721	2346	7096862566256407	CMakeFiles/Casting.dir/racecar.cpp.obj	63d4c11f3a80a3b9
+717	2362	7096862566423303	CMakeFiles/Casting.dir/Casting_autogen/mocs_compilation.cpp.obj	5d17960779026570
+2362	2487	7096862567646334	Casting.exe	6b48d140c18115f6
+6	224	7096874213621029	Casting_autogen/timestamp	1f0f034dfc578e7b
+6	224	7096874213621029	Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+6	224	7096874213621029	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/timestamp	1f0f034dfc578e7b
+6	224	7096874213621029	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+238	1343	7096874224886632	CMakeFiles/Casting.dir/main.cpp.obj	1c95a17461e20ccc
+1343	1464	7096874226077738	Casting.exe	6b48d140c18115f6
+6	217	7096877312214464	Casting_autogen/timestamp	1f0f034dfc578e7b
+6	217	7096877312214464	Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+6	217	7096877312214464	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/timestamp	1f0f034dfc578e7b
+6	217	7096877312214464	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+219	1242	7096877322572425	CMakeFiles/Casting.dir/main.cpp.obj	1c95a17461e20ccc
+1242	1353	7096877323641016	Casting.exe	6b48d140c18115f6
+15	382	7096878180120439	Casting_autogen/timestamp	1f0f034dfc578e7b
+15	382	7096878180120439	Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+15	382	7096878180120439	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/timestamp	1f0f034dfc578e7b
+15	382	7096878180120439	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+387	2348	7096878200025033	CMakeFiles/Casting.dir/main.cpp.obj	1c95a17461e20ccc
+2348	2493	7096878201440920	Casting.exe	6b48d140c18115f6
+9	261	7096878832838354	Casting_autogen/timestamp	1f0f034dfc578e7b
+9	261	7096878832838354	Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+9	261	7096878832838354	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/timestamp	1f0f034dfc578e7b
+9	261	7096878832838354	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+264	1507	7096878845409555	CMakeFiles/Casting.dir/main.cpp.obj	1c95a17461e20ccc
+1507	1615	7096878846469509	Casting.exe	6b48d140c18115f6
+7	275	7096905323552057	Casting_autogen/timestamp	1f0f034dfc578e7b
+7	275	7096905323552057	Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+7	275	7096905323552057	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/timestamp	1f0f034dfc578e7b
+7	275	7096905323552057	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+277	1893	7096905339848309	CMakeFiles/Casting.dir/main.cpp.obj	1c95a17461e20ccc
+1893	2040	7096905341280357	Casting.exe	6b48d140c18115f6
+7	251	7096908000674553	Casting_autogen/timestamp	1f0f034dfc578e7b
+7	251	7096908000674553	Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+7	251	7096908000674553	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/timestamp	1f0f034dfc578e7b
+7	251	7096908000674553	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+253	1600	7096908014286483	CMakeFiles/Casting.dir/main.cpp.obj	1c95a17461e20ccc
+1600	1735	7096908015570190	Casting.exe	6b48d140c18115f6
+6	226	7096918159811222	Casting_autogen/timestamp	1f0f034dfc578e7b
+6	226	7096918159811222	Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+6	226	7096918159811222	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/timestamp	1f0f034dfc578e7b
+6	226	7096918159811222	C:/Users/ManoloPc/Documents/Qt6 Learning/06Casting/build-Casting-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/Casting_autogen/mocs_compilation.cpp	1f0f034dfc578e7b
+228	1405	7096918171727610	CMakeFiles/Casting.dir/main.cpp.obj	1c95a17461e20ccc
+1406	1548	7096918173106398	Casting.exe	6b48d140c18115f6

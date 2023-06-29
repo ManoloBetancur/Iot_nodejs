@@ -1,0 +1,20 @@
+# ninja log v5
+200	1180	7092312011410567	CMakeFiles/testApp.dir/pokemon.cpp.obj	ce1a7778b562aae6
+1379	1473	7092331021489061	testApp.exe	9d805e83c299f900
+222	1378	7092331020561551	CMakeFiles/testApp.dir/main.cpp.obj	c7876ea033996109
+6	219	7092331008876094	C:/Users/ManoloPc/Documents/Qt6 Learning/00Start/build-testApp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/testApp_autogen/mocs_compilation.cpp	890cad2ac2596478
+6	219	7092331008876094	testApp_autogen/mocs_compilation.cpp	890cad2ac2596478
+6	219	7092331008876094	testApp_autogen/timestamp	890cad2ac2596478
+578	1871	7092308906005258	CMakeFiles/testApp.dir/testApp_autogen/mocs_compilation.cpp.obj	75ebb3706a809d2f
+37	63	0	clean	186d2f0e95cae768
+6	219	7092331008876094	C:/Users/ManoloPc/Documents/Qt6 Learning/00Start/build-testApp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/testApp_autogen/timestamp	890cad2ac2596478
+2	37	0	CMakeFiles/clean.additional	baedbe210acaa455
+6	721	7092526981109792	testApp_autogen/timestamp	890cad2ac2596478
+6	721	7092526981109792	testApp_autogen/mocs_compilation.cpp	890cad2ac2596478
+6	721	7092526981109792	C:/Users/ManoloPc/Documents/Qt6 Learning/00Start/build-testApp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/testApp_autogen/timestamp	890cad2ac2596478
+6	721	7092526981109792	C:/Users/ManoloPc/Documents/Qt6 Learning/00Start/build-testApp-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/testApp_autogen/mocs_compilation.cpp	890cad2ac2596478
+724	2278	7092526998120589	CMakeFiles/testApp.dir/pokemon.cpp.obj	ce1a7778b562aae6
+726	2323	7092526998587087	CMakeFiles/testApp.dir/test.cpp.obj	97112743ec78339a
+723	2325	7092526998608863	CMakeFiles/testApp.dir/main.cpp.obj	c7876ea033996109
+721	2401	7092526999377912	CMakeFiles/testApp.dir/testApp_autogen/mocs_compilation.cpp.obj	75ebb3706a809d2f
+2402	2530	7092527000613767	testApp.exe	58458257e009cb58
